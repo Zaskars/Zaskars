@@ -1,5 +1,1 @@
-
-<!---
-Zaskars/Zaskars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Всем привет! Работаю веб-разрабом на джанге, пишу телеграм ботов. Писать сюды https://t.me/h8tea
