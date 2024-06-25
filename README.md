@@ -1,6 +1,1 @@
 Всем привет! Работаю веб-разрабом на python, пишу телеграм ботов. Писать сюда https://t.me/h8tea
-
-Сейчас работаю над:  
-https://t.me/rdgaBot  
-https://te.ya.uenv.ru/  
-https://thesis-search-engine.ya.uenv.ru
